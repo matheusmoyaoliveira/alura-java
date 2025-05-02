@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/alura-java.iml" filepath="$PROJECT_DIR$/alura-java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/praticas/praticas.iml" filepath="$PROJECT_DIR$/praticas/praticas.iml" />
     </modules>
   </component>
 </project>
