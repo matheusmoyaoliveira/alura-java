@@ -1,44 +1,35 @@
-# 💻 Alura Java
+# Alura Java
 
-Este repositório contém os exercícios e projetos desenvolvidos durante meus estudos com os cursos de Java na plataforma [Alura](https://www.alura.com.br/). Os conteúdos abrangem desde os conceitos básicos da linguagem até fundamentos importantes da orientação a objetos.
+Este repositório contém exercícios e projetos desenvolvidos durante meus estudos nos cursos de Java da plataforma Alura, complementando minha formação acadêmica.
 
-## 📁 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
-- **`alura-poo-java`**  
-  Contém exercícios focados em programação orientada a objetos utilizando Java. Inclui:
-  - Criação de classes e objetos.
-  - Uso de atributos e métodos.
-  - Encapsulamento, herança e polimorfismo.
+- **desafio/**  
+  Desafios práticos propostos nos cursos, abordando diversos conceitos da linguagem Java.
 
-- **`exercicios-java`**  
-  Diversos exercícios práticos voltados para fixação dos conceitos básicos da linguagem Java.  
-  Exemplos:
-  - Manipulação de variáveis e operadores.
-  - Condicionais e estruturas de repetição.
-  - Entrada e saída de dados via console.
+- **minhasmusicas/**  
+  Projeto para gerenciamento de músicas, aplicando conceitos de orientação a objetos.
 
-- **`projeto-conta-banco`**  
-  Pequeno projeto simulado de sistema bancário.  
-  Funcionalidades:
-  - Criação de contas.
-  - Operações de depósito, saque e exibição de saldo.
-  - Aplicação de conceitos de orientação a objetos.
+- **screenmatch/**  
+  Aplicação que interage com APIs para exibir informações sobre filmes e séries, reforçando o uso de bibliotecas externas e manipulação de dados.
 
-## 🛠️ Tecnologias Utilizadas
+- **src/**  
+  Códigos-fonte diversos utilizados ao longo dos cursos para fixação dos conteúdos.
 
-- Java JDK 17+
-- IntelliJ IDEA / Eclipse
-- Git e GitHub
+## 🛠 Tecnologias Utilizadas
 
-## 📚 Conhecimentos Desenvolvidos
+- Java 17
+- IntelliJ IDEA
+- APIs REST
+- Bibliotecas externas (ex: JSON.simple)
 
-- Sintaxe básica da linguagem Java
-- Programação orientada a objetos (POO)
-- Organização de projetos em pacotes
-- Boas práticas de desenvolvimento
+## 🎯 Objetivos
 
-## 🚀 Como Executar
+- Praticar os fundamentos da linguagem Java.
+- Aplicar conceitos de orientação a objetos na prática.
+- Desenvolver pequenos projetos para consolidar o aprendizado.
+- Integrar conhecimentos adquiridos na faculdade com os cursos da Alura.
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/matheusmoyaoliveira/alura-java.git
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
