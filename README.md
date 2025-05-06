@@ -1,35 +1,28 @@
 # Alura Java
 
-Este repositório contém exercícios e projetos desenvolvidos durante meus estudos nos cursos de Java da plataforma Alura, complementando minha formação acadêmica.
+Repositório dedicado aos projetos desenvolvidos nos cursos de Java da Alura.
 
-## 📂 Estrutura do Repositório
+## 📁 Estrutura do Repositório
 
-- **desafio/**  
-  Desafios práticos propostos nos cursos, abordando diversos conceitos da linguagem Java.
+- `src/`: Contém os arquivos-fonte dos projetos.
+- `README.md`: Este arquivo, com informações sobre o repositório.
 
-- **minhasmusicas/**  
-  Projeto para gerenciamento de músicas, aplicando conceitos de orientação a objetos.
+## 📚 Cursos Relacionados
 
-- **screenmatch/**  
-  Aplicação que interage com APIs para exibir informações sobre filmes e séries, reforçando o uso de bibliotecas externas e manipulação de dados.
+- Java JRE e JDK: compile e execute o seu programa
+- Java OO: entendendo a orientação a objetos
+- Java Polimorfismo: entenda herança e interfaces
+- Java e java.lang: programe com a classe Object e String
+- Java e java.util: coleções, Wrappers e Lambda expressions
 
-- **src/**  
-  Códigos-fonte diversos utilizados ao longo dos cursos para fixação dos conteúdos.
-
-## 🛠 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - Java 17
+- Maven
 - IntelliJ IDEA
-- APIs REST
-- Bibliotecas externas (ex: JSON.simple)
 
-## 🎯 Objetivos
+## 🚀 Como Executar
 
-- Praticar os fundamentos da linguagem Java.
-- Aplicar conceitos de orientação a objetos na prática.
-- Desenvolver pequenos projetos para consolidar o aprendizado.
-- Integrar conhecimentos adquiridos na faculdade com os cursos da Alura.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/matheusmoyaoliveira/alura-java.git
